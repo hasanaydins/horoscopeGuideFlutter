@@ -2,6 +2,15 @@
 
 Burclar icin bir rehber..
 
+An app for horoscope guide.
+
+## Screenshots
+
+<img src="ss/burc.png" alt="burc" width="300">
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
